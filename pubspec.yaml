@@ -1,0 +1,6 @@
+name: asset_test_flutter
+version: 0.0.1
+
+environment:
+  sdk: '>=1.20.1 <2.0.0'
+
